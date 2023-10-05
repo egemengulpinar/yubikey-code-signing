@@ -4,13 +4,13 @@ This repo aiming to help that quite complicated digital code signing process.
 ## Requirements
 This repo used Yubikey 5C FIPS device, please be sure that your own device support features below.
 
-- [YubiKey Smart Card Minidriver]("https://www.yubico.com/support/download/smart-card-drivers-tools/")
-- [YubiKey Manager]("https://www.yubico.com/support/download/smart-card-drivers-tools/") 
-- [Yubico PIV Tool]("https://www.yubico.com/support/download/smart-card-drivers-tools/") 
+- <a href="https://www.yubico.com/support/download/smart-card-drivers-tools" target="_blank">YubiKey Smart Card Minidriver</a>
+- <a href="https://www.yubico.com/support/download/smart-card-drivers-tools" target="_blank">YubiKey Manager</a>
+- <a href="https://www.yubico.com/support/download/smart-card-drivers-tools" target="_blank">Yubico PIV Tool</a>  
 - Windows SDK(Windows Kits/signtool.exe)
 
 ## Windows SDK - signtool.exe
-To get that tool, please refer to [Windows SDK]("https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/") site, install relevant windows SDK version
+To get that tool, please refer to <a href="https://developer.microsoft.com/en-us/windows/downloads/windows-sdk" target="_blank">Windows SDK</a> site, install relevant windows SDK version
 Then you can find your signtool like below ```C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64```
 For configuring your signtool.exe, please open 
 - ⊞ Win + R
