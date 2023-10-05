@@ -4,9 +4,9 @@ This repo aiming to help that quite complicated digital code signing process.
 ## Requirements
 This repo used Yubikey 5C FIPS device, please be sure that your own device support features below.
 
-- YubiKey Smart Card Minidriver
-- YubiKey Manager 
-- Yubico PIV Tool 
+- [YubiKey Smart Card Minidriver]("https://www.yubico.com/support/download/smart-card-drivers-tools/")
+- [YubiKey Manager]("https://www.yubico.com/support/download/smart-card-drivers-tools/") 
+- [Yubico PIV Tool]("https://www.yubico.com/support/download/smart-card-drivers-tools/") 
 - Windows SDK(Windows Kits/signtool.exe)
 
 ## Windows SDK - signtool.exe
